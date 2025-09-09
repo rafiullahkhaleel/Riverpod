@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riverpod_project/multi_state.dart';
+import 'package:riverpod_project/multi_state/multi_state.dart';
 
 class MultiStateScreen extends ConsumerStatefulWidget {
   const MultiStateScreen({super.key});
